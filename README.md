@@ -59,7 +59,7 @@ I personalized the notebook by replacing the default questions with general know
 **LESSON 2:-Prompt Engineering**  
 In this lesson, I learnt how to connect prompts stored in LangSmith with a Retrieval-Augmented Generation (RAG) pipeline. The notebook shows how a prompt can be pulled directly from LangSmith and used in the application instead of writing it manually. We here used the tracing feature using @traceable to see how each step in the chain runs and how data flows from retriever to model.This is honestly far more better way.
 
-Source File:-
+Source File:
 -https://github.com/langchain-ai/intro-to-langsmith/blob/661952bca6c5196a8d60c5a3d64448206ca07ba4/notebooks/module_3/prompt_hub.ipynb
 
 - Changes/ Examples here i tweaked with:-
