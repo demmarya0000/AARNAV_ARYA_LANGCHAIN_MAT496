@@ -49,7 +49,7 @@ After each video I note what I learned, the tweak I made, and link the code.
 **Summary:**
 This lesson introduced me to using the LangSmith Playground as a fast way to experiment with different prompt templates instead of relying on fixed, hardcoded ones. I explored how easily one can compare the outputs of multiple LLMs on a given dataset, testing various configurations and observing differences in their behavior.
 
-Source File:
+Source File:->
 - https://github.com/langchain-ai/intro-to-langsmith/blob/661952bca6c5196a8d60c5a3d64448206ca07ba4/notebooks/module_3/playground_experiments.ipynb
 
 Changes Made:
@@ -59,7 +59,7 @@ I personalized the notebook by replacing the default questions with general know
 **LESSON 2:-Prompt Engineering**  
 In this lesson, I learnt how to connect prompts stored in LangSmith with a Retrieval-Augmented Generation (RAG) pipeline. The notebook shows how a prompt can be pulled directly from LangSmith and used in the application instead of writing it manually. We here used the tracing feature using @traceable to see how each step in the chain runs and how data flows from retriever to model.This is honestly far more better way.
 
-Source File:
+Source File:->
 - https://github.com/langchain-ai/intro-to-langsmith/blob/661952bca6c5196a8d60c5a3d64448206ca07ba4/notebooks/module_3/prompt_hub.ipynb
 
 - Changes/ Examples here i tweaked with:-
@@ -72,7 +72,7 @@ Source File:
 This notebook demonstrates how to connect and use LangSmith Prompts with both LangChain and the OpenAI API.
 It shows how to pull prompts directly from LangSmith, invoke them to get structured outputs, and even create and test new multilingual prompt templates.
 
-Source File:
+Source File:->
 - https://github.com/langchain-ai/intro-to-langsmith/blob/661952bca6c5196a8d60c5a3d64448206ca07ba4/notebooks/module_3/prompt_engineering_lifecycle.ipynb
 
 
